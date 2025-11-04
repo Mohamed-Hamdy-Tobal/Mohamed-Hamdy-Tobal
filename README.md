@@ -101,6 +101,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Mohamed-Hamdy-Tobal/Mohamed-Hamdy-Tobal/output/snake.svg" alt="Snake animation" />
+<!-- <img src="https://raw.githubusercontent.com/Mohamed-Hamdy-Tobal/Mohamed-Hamdy-Tobal/output/snake.svg" alt="Snake animation" /> -->
 
 ###
