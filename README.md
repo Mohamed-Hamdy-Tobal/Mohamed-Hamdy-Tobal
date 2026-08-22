@@ -90,17 +90,6 @@
 
 ###
 
-<h3 align="left">🏆 GitHub Trophies</h3>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Mohamed-Hamdy-Tobal&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Mohamed-Hamdy-Tobal&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
-
-###
-
 <!-- <img src="https://raw.githubusercontent.com/Mohamed-Hamdy-Tobal/Mohamed-Hamdy-Tobal/output/snake.svg" alt="Snake animation" /> -->
 
 ###
